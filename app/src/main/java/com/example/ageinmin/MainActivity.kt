@@ -50,7 +50,5 @@ class MainActivity : AppCompatActivity() {
         btnDatePicker.setOnClickListener{
             clickDatePicker()
         }
-
-
     }
 }
